@@ -1,6 +1,7 @@
 from menu import resources
 from menu import MENU
 
+
 # Funcao que printa o troco
 def change_money(u_quarters,u_dimes,u_nickles,u_pennies,u_price):
     all_money = (u_quarters * 0.25) + (u_dimes * 0.10) + (u_nickles * 0.05) + (u_pennies * 0.1) 
@@ -10,12 +11,9 @@ def change_money(u_quarters,u_dimes,u_nickles,u_pennies,u_price):
         print(f"Sorry that's not enought money. Money refunded.")
 
 
-
-
-
-water = resources["water"] 
-milk = resources["milk"] 
-coffee = resources["coffee"] 
+water = resources["water"]
+milk = resources["milk"]
+coffee = resources["coffee"]
 
 
 while True:
