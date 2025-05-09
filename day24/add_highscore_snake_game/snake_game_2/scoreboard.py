@@ -4,9 +4,6 @@ ALIGNMENT = "center"
 FONT = ('Arial', 20, 'normal')
 HIGH_SCORE = open("data.txt")
 
-
-                
-
 class Scoreboard(Turtle):
     def __init__(self):
         super().__init__()
