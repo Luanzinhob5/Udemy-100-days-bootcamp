@@ -1,0 +1,7 @@
+1 - Consultar os dados da planilha com a API do sheets
+
+2 - Consultar os dados no site de voos
+
+3 - Avaliar se o preco esta me sale
+
+4 - mandar por SMS para o meu celular o voo em promocao
