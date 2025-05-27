@@ -88,7 +88,4 @@ button_add = Button(text="Add",width=34,command=save_password)
 button_add.grid(column=1,row=4,columnspan=2)
 
 
-
-
-
 window.mainloop()
